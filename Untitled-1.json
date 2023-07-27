@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Easy-to-Read Password Generator",
+  "version": "1.0",
+  "description": "Generate an easy-to-read password with specific requirements.",
+  "permissions": ["activeTab"],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
